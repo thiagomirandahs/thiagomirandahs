@@ -60,6 +60,7 @@ No dia a dia administro redes corporativas (**MikroTik, FortiGate, pfSense**), a
 
 | Projeto | Descrição | Stack |
 |---|---|---|
+| 🧑‍💼 [**NexaRH — Sistema de RH**](https://github.com/thiagomirandahs/nexarh) | RH full-stack **multi-tenant**: ponto biométrico, folha CLT, banco de horas e benefícios — **em produção** (VPS + nginx + SSL) | `FastAPI` · `React` · `MySQL` |
 |  [**Gestão de Coletas**](https://github.com/thiagomirandahs/CASE-MOURA) | Sistema full-stack de gestão de coletas com **Clean Architecture**, dashboard, autenticação JWT e **demo ao vivo** | `C# .NET 8` · `EF Core` · `SQL Server` |
 | 🌐 [**Toolkit de Infra & Redes**](https://github.com/thiagomirandahs/infra-redes-toolkit) | Automação **MikroTik (RouterOS)**, **OpenVPN** endurecido e arquitetura de rede **segmentada e segura** | `RouterOS` · `OpenVPN` · `Redes` |
 |  [**Ponto Biométrico → Nuvem**](https://github.com/thiagomirandahs/ponto-biometrico-controlid) | Integração de relógios **Control iD** com RH na nuvem: leitura de **AFD/Portaria 671** e ponte segura LAN↔nuvem | `Python` · `IoT` · `AFD 671` |
