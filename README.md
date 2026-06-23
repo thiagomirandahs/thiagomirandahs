@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Thiago 👋</h1>
+<h1 align="center">Olá, eu sou o Thiago </h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack · Analista de TI · Automação & Integração de Sistemas</strong><br/>
@@ -16,17 +16,17 @@
 
 ---
 
-### 💼 Sobre mim
+###  Sobre mim
 
 Profissional de TI que une **desenvolvimento de sistemas**, **automação de processos** e **infraestrutura & segurança**. Crio sistemas web e integrações (Python, PHP, C#, JavaScript, SQL) que automatizam rotinas, conectam dados entre sistemas e aumentam a eficiência operacional — **do código ao deploy**.
 
 No dia a dia administro redes corporativas (**MikroTik, FortiGate, pfSense**), ambientes **Microsoft 365 / Active Directory / Entra ID** e serviços em **AWS**, além de tratar dados e construir relatórios em **Power BI** para apoio à decisão.
 
-🎓 **MBA em Segurança da Informação** · 🚀 evoluindo para **DevOps / SRE** (automação + cloud + segurança).
+ **MBA em Segurança da Informação** · 🚀 evoluindo para **DevOps / SRE** (automação + cloud + segurança).
 
 ---
 
-### 🛠️ Stack & Ferramentas
+###  Stack & Ferramentas
 
 **Desenvolvimento**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -60,13 +60,13 @@ No dia a dia administro redes corporativas (**MikroTik, FortiGate, pfSense**), a
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🚚 [**Gestão de Coletas**](https://github.com/thiagomirandahs/CASE-MOURA) | Sistema full-stack de gestão de coletas com **Clean Architecture**, dashboard, autenticação JWT e **demo ao vivo** | `C# .NET 8` · `EF Core` · `SQL Server` |
-| 🕐 [**Ponto Biométrico → Nuvem**](https://github.com/thiagomirandahs/ponto-biometrico-controlid) | Integração de relógios **Control iD** com RH na nuvem: leitura de **AFD/Portaria 671** e ponte segura LAN↔nuvem | `Python` · `IoT` · `AFD 671` |
-| 🤖 [**Adir — Copiloto de IA**](https://github.com/thiagomirandahs/COPILOT_AGENTE) | Agente de IA com 5 modos (Ask, Edit, Plan, Agent, Study) — **engenharia de prompts** aplicada | `Prompt Engineering` · `IA` |
+|  [**Gestão de Coletas**](https://github.com/thiagomirandahs/CASE-MOURA) | Sistema full-stack de gestão de coletas com **Clean Architecture**, dashboard, autenticação JWT e **demo ao vivo** | `C# .NET 8` · `EF Core` · `SQL Server` |
+|  [**Ponto Biométrico → Nuvem**](https://github.com/thiagomirandahs/ponto-biometrico-controlid) | Integração de relógios **Control iD** com RH na nuvem: leitura de **AFD/Portaria 671** e ponte segura LAN↔nuvem | `Python` · `IoT` · `AFD 671` |
+|  [**Adir — Copiloto de IA**](https://github.com/thiagomirandahs/COPILOT_AGENTE) | Agente de IA com 5 modos (Ask, Edit, Plan, Agent, Study) — **engenharia de prompts** aplicada | `Prompt Engineering` · `IA` |
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=thiagomirandahs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -75,12 +75,12 @@ No dia a dia administro redes corporativas (**MikroTik, FortiGate, pfSense**), a
 
 ---
 
-### 🎓 Formação & Certificações
+###  Formação & Certificações
 
 - **MBA em Segurança da Informação** — Faculdade Descomplica
 - **Tecnólogo (CST) em Gestão de Redes e Segurança de Sistemas** — IPESU
 - **Técnico em Desenvolvimento de Sistemas** — ETE Cícero Dias
-- 📜 *AWS Educate: Introduction to Cloud 101* · *Introduction to Cybersecurity* · *Networking Basics*
+-  *AWS Educate: Introduction to Cloud 101* · *Introduction to Cybersecurity* · *Networking Basics*
 
 ---
 
