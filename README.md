@@ -61,6 +61,7 @@ No dia a dia administro redes corporativas (**MikroTik, FortiGate, pfSense**), a
 | Projeto | Descrição | Stack |
 |---|---|---|
 |  [**Gestão de Coletas**](https://github.com/thiagomirandahs/CASE-MOURA) | Sistema full-stack de gestão de coletas com **Clean Architecture**, dashboard, autenticação JWT e **demo ao vivo** | `C# .NET 8` · `EF Core` · `SQL Server` |
+| 🌐 [**Toolkit de Infra & Redes**](https://github.com/thiagomirandahs/infra-redes-toolkit) | Automação **MikroTik (RouterOS)**, **OpenVPN** endurecido e arquitetura de rede **segmentada e segura** | `RouterOS` · `OpenVPN` · `Redes` |
 |  [**Ponto Biométrico → Nuvem**](https://github.com/thiagomirandahs/ponto-biometrico-controlid) | Integração de relógios **Control iD** com RH na nuvem: leitura de **AFD/Portaria 671** e ponte segura LAN↔nuvem | `Python` · `IoT` · `AFD 671` |
 |  [**Adir — Copiloto de IA**](https://github.com/thiagomirandahs/COPILOT_AGENTE) | Agente de IA com 5 modos (Ask, Edit, Plan, Agent, Study) — **engenharia de prompts** aplicada | `Prompt Engineering` · `IA` |
 
