@@ -18,9 +18,9 @@
 
 ### 💼 Sobre mim
 
-Analista de TI com foco em **desenvolvimento de sistemas corporativos, infraestrutura de redes e segurança da informação**. No dia a dia, administro redes (MikroTik, FortiGate, pfSense), ambientes Microsoft 365 / Active Directory / Entra ID e serviços em **AWS** — e desenvolvo sistemas full-stack (Python/FastAPI, React/TypeScript, PHP, SQL) que automatizam processos críticos e integram hardware corporativo (relógios de ponto, telefonia VoIP) à nuvem.
+Analista de TI com foco em **desenvolvimento de sistemas corporativos, infraestrutura de redes e segurança da informação**. Administro redes (MikroTik, FortiGate, pfSense), ambientes Microsoft 365 / Active Directory / Entra ID e serviços em **AWS** — e desenvolvo sistemas full-stack (Python/FastAPI, React/TypeScript, PHP, SQL) que automatizam processos críticos, integram hardware corporativo à nuvem e aplicam **IA** em problemas reais de TI.
 
-Possuo **MBA em Segurança da Informação** e venho construindo um portfólio que une as três frentes: **código de produção, infra endurecida e arquitetura com Security by Design**.
+Possuo **MBA em Segurança da Informação** e venho construindo um portfólio que une **código de produção, infra endurecida e arquitetura com Security by Design**.
 
 ---
 
@@ -37,7 +37,9 @@ Possuo **MBA em Segurança da Informação** e venho construindo um portfólio q
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**IA / LLM**
+![Anthropic](https://img.shields.io/badge/Claude%20API-D97757?style=flat)
 
 **Dados & Persistência**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -54,6 +56,10 @@ Possuo **MBA em Segurança da Informação** e venho construindo um portfólio q
 ---
 
 ### 🚀 Projetos em destaque
+
+#### 🛰️ [**AssetIA**](https://github.com/thiagomirandahs/assetia) — Inventário inteligente de TI com agente LLM
+Plataforma full-stack que descobre dispositivos na rede automaticamente (ICMP/ARP/SNMP/OUI) e oferece um **agente Claude com tool use** para responder perguntas em linguagem natural sobre o inventário. Arquitetura **multi-tenant** com JWT + RBAC, scanner async em Python, dashboard React em tempo real e Docker Compose para deploy.
+`FastAPI` · `React 19 + TypeScript` · `Claude API` · `Tailwind` · `Docker`
 
 #### 🧑‍💼 [**NexaRH**](https://github.com/thiagomirandahs/nexarh) — Sistema de RH multi-tenant
 Plataforma full-stack para gestão de pessoas com **integração de relógio biométrico (Control iD)**, **folha de pagamento conforme CLT**, banco de horas (50%/100%), gestão de férias e benefícios. Arquitetura **SaaS multi-tenant** com isolamento por empresa, **JWT + RBAC**, deploy em VPS Linux com nginx e SSL automático.
